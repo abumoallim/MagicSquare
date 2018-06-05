@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagicSquare</string>
+    <string name="row">Enter N : </string>
+    <string name="toastvalue">Please select odd number</string>
+    <string name="buttontext">Create Magic Square</string>
+
+</resources>
